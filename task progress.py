@@ -13,7 +13,7 @@ progress=input(" do you want to see today's progress")
 if progress:
     print("*"*20+"don_taskes"+"*"*20 +" \n", don_taskes)
     print("+"*20+"on going taskes"+"+"*20+ "\n",ongoing_tasks)
-
+print("good bay")
 
 
 
